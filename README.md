@@ -13,6 +13,6 @@ This is my first personal portfolio website built using HTML, CSS, and JavaScrip
 
 - Dark Mode
 
-You can see my portfolio live at [https://my-portfolio-diogo.netlify.app/)https://my-portfolio-diogo.netlify.app/].
+[Visit My Portfolio](https://my-portfolio-diogo.netlify.app/)
 
 
